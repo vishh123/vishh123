@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Vishal, a passionate web developer with a strong foundation in front-end technologies like HTML, CSS, and JavaScript.<br>I specialize in building dynamic and responsive user interfaces using React, ensuring seamless user experiences. <br>With a keen eye for design and performance optimization,<br>I love turning ideas into functional, visually appealing web applications. <br>I'm always eager to learn new technologies and stay updated with the latest trends in web development.
+# 💫 Hi👋, I'm Vishal
+A passionate web developer with a strong foundation in front-end technologies like HTML, CSS, and JavaScript.<br>I specialize in building dynamic and responsive user interfaces using React, ensuring seamless user experiences. <br>With a keen eye for design and performance optimization,<br>I love turning ideas into functional, visually appealing web applications. <br>I'm always eager to learn new technologies and stay updated with the latest trends in web development.
 
 
 ## 🌐 Socials:
